@@ -1,0 +1,6 @@
+c:\source\Lommeregner1\Lommeregner1\bin\Debug\Lommeregner1.exe.config
+c:\source\Lommeregner1\Lommeregner1\bin\Debug\Lommeregner1.exe
+c:\source\Lommeregner1\Lommeregner1\bin\Debug\Lommeregner1.pdb
+c:\source\Lommeregner1\Lommeregner1\obj\Debug\Lommeregner1.csprojResolveAssemblyReference.cache
+c:\source\Lommeregner1\Lommeregner1\obj\Debug\Lommeregner1.exe
+c:\source\Lommeregner1\Lommeregner1\obj\Debug\Lommeregner1.pdb
